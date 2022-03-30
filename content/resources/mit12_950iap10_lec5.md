@@ -6,6 +6,7 @@ description: Lecture presentation on hybrid MPI+OpenMP programming, MPI performa
   libraries or writing your own library.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/a5ec04f88c8ba5e85086e7078b20200f_MIT12_950IAP10_Lec5.pdf
 file_type: application/pdf
+parent_uid: 74c7a7ac-89fa-b9fc-1942-4f3daf737786
 resourcetype: Document
 title: More MPI-1 and Parallel Programming
 uid: a5ec04f8-8c8b-a5e8-5086-e7078b20200f

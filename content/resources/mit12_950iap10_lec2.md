@@ -5,6 +5,7 @@ description: Lecture presentation on OpenMP, MPI Pt2Pt, EC2 cluster and Vmware i
   concepts, and blocking point to point communications.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-950-parallel-programming-for-multicore-machines-using-openmp-and-mpi-january-iap-2010/d38f3c6beb50fdf3c4fdcca37008c25f_MIT12_950IAP10_Lec2.pdf
 file_type: application/pdf
+parent_uid: 74c7a7ac-89fa-b9fc-1942-4f3daf737786
 resourcetype: Document
 title: Parallel Computing and MPI Pt2Pt
 uid: d38f3c6b-eb50-fdf3-c4fd-cca37008c25f
